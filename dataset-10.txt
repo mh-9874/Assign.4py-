@@ -1,0 +1,11 @@
+first_name	last_name	age	marital_status	speak_1	listen_1	read_1	write_1	all_2	education	work_experience	arranged_employment	adaptability_spouse_language	adaptability_spouse_education	adaptability_spouse_work	adaptability_you_education	adaptability_you_work	adaptability_you_employment	adaptability_relatives
+Aaron	Grimm	30	Single	8	7	7	7	no	Two or more certificates, diplomas, or degrees	6	yes	no	no	no	yes	yes	yes	yes
+Aaron	Hartline	55	Married	7	9	9	8	no	Secondary school (high school diploma)	0	yes	yes	no	no	no	no	yes	yes
+Aaron	Koressel	33	Married	10	10	9	7	yes	Professional degree needed to practice in a licensed profession	11	no	yes	no	no	yes	no	no	no
+Aaron	Russo	30	Single	9	7	8	8	yes	One-year degree, diploma or certificate	10	yes	no	no	no	yes	no	yes	no
+Abigail	Kelley	57	Single	7	10	9	10	yes	Bachelor's degree or other programs (three or more years)	0	yes	no	no	no	yes	yes	yes	yes
+Abraham	Armstrong	57	Married	9	10	9	8	no	Two or more certificates, diplomas, or degrees	2	no	yes	no	no	no	yes	no	no
+Abraham	Harper	58	Married	8	9	10	10	yes	University degree at the Master's level	15	yes	no	no	no	no	yes	yes	no
+Abraham	Howard	26	Single	8	7	8	8	yes	Two or more certificates, diplomas, or degrees	10	no	no	no	no	yes	no	no	yes
+Ada	Parker	26	Single	9	7	7	10	yes	Secondary school (high school diploma)	3	yes	no	no	no	yes	yes	yes	yes
+Ada	Walker	61	Single	7	9	8	9	yes	University degree at the Doctoral (PhD) level	0	yes	no	no	no	no	yes	yes	no
