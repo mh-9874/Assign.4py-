@@ -1,0 +1,101 @@
+first_name	last_name	age	marital_status	speak_1	listen_1	read_1	write_1	all_2	education	work_experience	arranged_employment	adaptability_spouse_language	adaptability_spouse_education	adaptability_spouse_work	adaptability_you_education	adaptability_you_work	adaptability_you_employment	adaptability_relatives
+Aaron	Grimm	30	Single	8	7	7	7	no	Two or more certificates, diplomas, or degrees	6	yes	no	no	no	yes	yes	yes	yes
+Aaron	Hartline	55	Married	7	9	9	8	no	Secondary school (high school diploma)	0	yes	yes	no	no	no	no	yes	yes
+Aaron	Koressel	33	Married	10	10	9	7	yes	Professional degree needed to practice in a licensed profession	11	no	yes	no	no	yes	no	no	no
+Aaron	Russo	30	Single	9	7	8	8	yes	One-year degree, diploma or certificate	10	yes	no	no	no	yes	no	yes	no
+Abigail	Kelley	57	Single	7	10	9	10	yes	Bachelor's degree or other programs (three or more years)	0	yes	no	no	no	yes	yes	yes	yes
+Abraham	Armstrong	57	Married	9	10	9	8	no	Two or more certificates, diplomas, or degrees	2	no	yes	no	no	no	yes	no	no
+Abraham	Harper	58	Married	8	9	10	10	yes	University degree at the Master's level	15	yes	no	no	no	no	yes	yes	no
+Abraham	Howard	26	Single	8	7	8	8	yes	Two or more certificates, diplomas, or degrees	10	no	no	no	no	yes	no	no	yes
+Ada	Parker	26	Single	9	7	7	10	yes	Secondary school (high school diploma)	3	yes	no	no	no	yes	yes	yes	yes
+Ada	Walker	61	Single	7	9	8	9	yes	University degree at the Doctoral (PhD) level	0	yes	no	no	no	no	yes	yes	no
+Adam	Faruqi	38	Married	9	7	9	9	yes	University degree at the Master's level	2	yes	yes	no	no	no	yes	yes	yes
+Adam	Fuchs	21	Single	10	9	9	8	no	Bachelor's degree or other programs (three or more years)	1	yes	no	no	no	no	yes	yes	yes
+Adam	Gates	19	Single	7	10	9	10	yes	University degree at the Master's level	9	yes	no	no	no	yes	yes	yes	yes
+Adam	Rodriguez	49	Married	7	10	7	9	yes	One-year degree, diploma or certificate	1	no	yes	no	no	no	no	no	no
+Adam	Wermus	26	Married	9	7	9	7	no	Professional degree needed to practice in a licensed profession	13	yes	no	no	no	yes	yes	yes	yes
+Adam	Woodbury	34	Single	10	8	9	7	no	Two or more certificates, diplomas, or degrees	3	yes	no	no	no	no	yes	yes	yes
+Addie	Chandler	54	Married	10	9	10	7	no	Professional degree needed to practice in a licensed profession	15	yes	no	no	no	yes	no	yes	no
+Addielyn	Thurston	18	Single	9	7	8	10	no	University degree at the Doctoral (PhD) level	11	no	no	no	no	yes	yes	no	yes
+Adelaide	Carter	20	Single	8	8	7	10	yes	One-year degree, diploma or certificate	5	yes	no	no	no	no	yes	yes	no
+Adelaide	Clark	74	Single	7	9	7	9	yes	Professional degree needed to practice in a licensed profession	9	yes	no	no	no	yes	no	yes	no
+Adison	Crawford	58	Married	10	9	9	7	no	Secondary school (high school diploma)	13	yes	no	no	no	yes	no	yes	no
+Adison	Scott	53	Single	9	8	7	10	yes	University degree at the Doctoral (PhD) level	11	no	no	no	no	no	no	no	yes
+Adrian	Owens	35	Married	9	10	8	10	no	Professional degree needed to practice in a licensed profession	15	yes	no	no	no	yes	yes	yes	no
+Adrian	Bell	62	Single	10	8	9	9	yes	Professional degree needed to practice in a licensed profession	12	yes	no	no	no	no	no	yes	yes
+Adrian	Maruri	58	Married	9	9	7	7	yes	University degree at the Doctoral (PhD) level	2	no	no	no	no	no	yes	no	no
+Adrian	Molina	46	Single	9	10	8	10	yes	Secondary school (high school diploma)	10	yes	no	no	no	yes	yes	yes	no
+Adrian	Rico-Galvez	20	Single	7	8	9	9	yes	Secondary school (high school diploma)	5	no	no	no	no	yes	no	no	yes
+Adrianna	Payne	67	Married	8	10	8	7	yes	Bachelor's degree or other programs (three or more years)	15	no	no	no	no	no	no	no	yes
+Agata	Hill	68	Single	9	8	8	7	no	One-year degree, diploma or certificate	5	no	no	no	no	no	no	no	yes
+Aida	Higgins	50	Single	9	9	8	7	no	Bachelor's degree or other programs (three or more years)	11	yes	no	no	no	no	no	yes	yes
+Aiden	Warren	61	Single	9	8	8	9	no	Professional degree needed to practice in a licensed profession	13	no	no	no	no	no	no	no	yes
+Aimei	Kutt	65	Single	7	10	7	9	yes	University degree at the Doctoral (PhD) level	6	no	no	no	no	yes	no	no	no
+AJ	Zmudosky	21	Single	7	10	8	7	no	One-year degree, diploma or certificate	3	yes	no	no	no	yes	no	yes	no
+Alan	Adams	47	Married	10	9	10	8	yes	One-year degree, diploma or certificate	12	yes	yes	no	no	yes	no	yes	yes
+Alan	Edwards	45	Single	9	7	10	10	yes	Two or more certificates, diplomas, or degrees	0	yes	no	no	no	yes	no	yes	no
+Alan	Browning	45	Married	10	7	9	8	yes	One-year degree, diploma or certificate	9	yes	no	no	no	yes	no	yes	yes
+Albert	Richardson	34	Single	10	8	8	7	no	Secondary school (high school diploma)	13	yes	no	no	no	no	no	yes	no
+Alberta	Barrett	55	Married	7	9	8	8	no	Two-year degree, diploma or certificate	7	yes	yes	no	no	no	yes	yes	yes
+Alex	Iles	64	Married	10	7	10	10	yes	Two-year degree, diploma or certificate	6	no	yes	no	no	yes	no	no	no
+Alex	Marino	36	Single	9	8	9	10	yes	One-year degree, diploma or certificate	10	no	no	no	no	yes	no	no	yes
+Alex	Mohr	28	Single	7	8	10	8	yes	University degree at the Master's level	10	yes	no	no	no	yes	yes	yes	yes
+Alexander	Thompson	67	Single	10	7	7	8	no	Secondary school (high school diploma)	13	yes	no	no	no	yes	no	yes	yes
+Alexandra	Zalucky	36	Single	10	9	9	7	no	University degree at the Master's level	11	yes	no	no	no	no	yes	yes	no
+Alexandro	Campos	21	Married	9	9	7	7	no	One-year degree, diploma or certificate	12	no	no	no	no	yes	yes	no	yes
+Alexia	Carroll	57	Married	10	10	8	8	yes	Two-year degree, diploma or certificate	3	no	yes	no	no	yes	yes	no	yes
+Alexia	Lloyd	70	Single	10	9	7	8	no	One-year degree, diploma or certificate	4	no	no	no	no	no	no	no	no
+Alexis	Lombardi Nelson	68	Married	10	10	8	8	no	Bachelor's degree or other programs (three or more years)	0	yes	no	no	no	yes	no	yes	no
+Alfonso	Caparrini	22	Single	10	10	10	9	yes	Two or more certificates, diplomas, or degrees	7	yes	no	no	no	no	yes	yes	yes
+Alicea	Lin Engquist	52	Single	7	9	7	10	yes	Two-year degree, diploma or certificate	11	yes	no	no	no	no	yes	yes	yes
+Alisa	Walker	75	Married	9	9	8	10	yes	One-year degree, diploma or certificate	5	no	yes	no	no	no	yes	no	yes
+Alison	Fernandez	41	Married	9	10	9	8	no	Bachelor's degree or other programs (three or more years)	10	no	no	no	no	yes	yes	no	no
+Alison	Leaf	19	Married	10	8	7	8	no	Secondary school (high school diploma)	1	yes	no	no	no	no	yes	yes	yes
+Alissa	Hunt	20	Single	9	10	10	9	yes	Bachelor's degree or other programs (three or more years)	15	no	no	no	no	yes	yes	no	no
+Aliyah	Nissim	70	Married	7	10	7	8	no	Secondary school (high school diploma)	10	yes	no	no	no	no	no	yes	no
+Allen	Fogle	66	Single	7	8	9	9	yes	University degree at the Doctoral (PhD) level	14	no	no	no	no	no	yes	no	yes
+Allison	Bianchi	24	Married	10	8	10	9	yes	Secondary school (high school diploma)	3	yes	no	no	no	yes	no	yes	yes
+Allison	Parker	30	Married	10	7	7	7	yes	Secondary school (high school diploma)	6	yes	no	no	no	yes	yes	yes	no
+Allison	Rutland	48	Married	9	7	10	9	no	Secondary school (high school diploma)	9	no	yes	no	no	yes	no	no	no
+Alma	Fernandez	31	Single	8	10	8	9	no	One-year degree, diploma or certificate	7	no	no	no	no	yes	yes	no	yes
+Alon	Tamir Winterstein	51	Married	9	9	8	9	no	Bachelor's degree or other programs (three or more years)	9	no	yes	no	no	yes	yes	no	no
+Alvin	Chea	55	Married	10	7	7	9	yes	Bachelor's degree or other programs (three or more years)	12	no	yes	no	no	yes	yes	no	no
+Aly	Fidiam-Smith	41	Single	8	7	9	9	no	Professional degree needed to practice in a licensed profession	2	yes	no	no	no	yes	no	yes	no
+Alyssa	Del Vigna	38	Married	9	7	9	8	no	University degree at the Doctoral (PhD) level	4	no	no	no	no	no	yes	no	yes
+Alyssa	Lee	57	Married	7	9	8	7	no	Two or more certificates, diplomas, or degrees	8	no	no	no	no	no	yes	no	yes
+Alyssa	Mar	47	Single	10	8	9	9	no	University degree at the Master's level	9	yes	no	no	no	no	yes	yes	yes
+Alyssa	Minko	51	Single	9	9	10	10	yes	University degree at the Doctoral (PhD) level	1	yes	no	no	no	yes	yes	yes	no
+Alyssa	Murphy	42	Single	7	8	7	10	yes	Professional degree needed to practice in a licensed profession	5	yes	no	no	no	yes	yes	yes	yes
+Alyssa	Park	48	Single	8	10	10	9	yes	Two or more certificates, diplomas, or degrees	6	yes	no	no	no	no	yes	yes	no
+Alyssa	Promessi	30	Married	10	9	10	8	no	Secondary school (high school diploma)	9	yes	yes	no	no	no	yes	yes	yes
+Amanda	Goodpaster	28	Single	8	10	10	8	no	Professional degree needed to practice in a licensed profession	3	yes	no	no	no	no	yes	yes	no
+Amanda	Wagner	29	Married	8	10	10	7	no	Bachelor's degree or other programs (three or more years)	0	no	yes	no	no	no	yes	no	yes
+Amandeep	Singh	32	Single	8	7	8	9	yes	Two or more certificates, diplomas, or degrees	13	yes	no	no	no	no	yes	yes	no
+Amelia	Williams	62	Single	10	9	7	9	no	Bachelor's degree or other programs (three or more years)	11	yes	no	no	no	no	yes	yes	no
+Amit	Ganapati Baadkar	51	Single	10	9	10	10	no	University degree at the Doctoral (PhD) level	10	no	no	no	no	no	yes	no	no
+Amy	Armstrong	54	Married	9	7	7	10	no	Bachelor's degree or other programs (three or more years)	7	no	yes	no	no	yes	yes	no	yes
+Amy	Perry	18	Single	10	9	10	9	no	University degree at the Doctoral (PhD) level	3	no	no	no	no	no	no	no	no
+Amy	Ellenwood	64	Single	9	9	7	7	no	Secondary school (high school diploma)	8	no	no	no	no	no	no	no	no
+Amy	H. Chen	74	Married	8	8	9	10	no	University degree at the Master's level	15	no	yes	no	no	no	yes	no	no
+Amy	Hershberger	45	Married	10	9	10	9	no	Professional degree needed to practice in a licensed profession	13	no	yes	no	no	no	no	no	yes
+Ana	Gabriela Lacaze	40	Married	7	9	9	10	no	Professional degree needed to practice in a licensed profession	13	no	no	no	no	no	yes	no	no
+Ana	Landauer	70	Married	10	9	7	9	no	Bachelor's degree or other programs (three or more years)	5	yes	yes	no	no	yes	no	yes	no
+Ana	Ram'rez Gonz'les	45	Single	9	10	8	9	yes	One-year degree, diploma or certificate	15	no	no	no	no	yes	yes	no	yes
+Andie	Sanchez	22	Single	10	10	9	9	no	University degree at the Master's level	6	no	no	no	no	yes	no	no	yes
+Andrea	Aleman	65	Married	8	9	9	10	yes	Two or more certificates, diplomas, or degrees	3	no	yes	no	no	no	yes	no	yes
+Andrea	Goh	53	Married	8	8	9	9	yes	Two-year degree, diploma or certificate	2	yes	yes	no	no	no	no	yes	yes
+Andrea	Warren	27	Single	7	10	10	7	yes	Two or more certificates, diplomas, or degrees	2	no	no	no	no	no	no	no	yes
+Andrea	Zomorodian	36	Married	8	8	9	10	no	Professional degree needed to practice in a licensed profession	4	no	yes	no	no	no	yes	no	no
+Andreas	Dutz	60	Married	8	9	7	7	yes	University degree at the Master's level	15	no	no	no	no	yes	no	no	no
+Andreas	Procopiou	55	Married	7	10	8	7	yes	Two-year degree, diploma or certificate	13	yes	no	no	no	no	yes	yes	yes
+Andrew	Ryan	20	Married	9	9	9	8	yes	Two or more certificates, diplomas, or degrees	12	no	yes	no	no	yes	no	no	no
+Andrew	Bain	65	Single	10	7	9	9	yes	University degree at the Doctoral (PhD) level	8	no	no	no	no	no	no	no	no
+Andrew	Beall	61	Single	10	10	8	10	no	University degree at the Master's level	1	yes	no	no	no	no	no	yes	no
+Andrew	Butts	41	Married	7	7	10	7	yes	Secondary school (high school diploma)	13	yes	no	no	no	no	yes	yes	no
+Andrew	Duckles	72	Married	7	9	9	7	yes	University degree at the Doctoral (PhD) level	2	no	yes	no	no	no	no	no	no
+Andrew	Jimenez	43	Married	8	8	7	10	yes	University degree at the Doctoral (PhD) level	2	yes	no	no	no	no	no	yes	yes
+Andrew	Kinney	74	Married	9	7	7	8	yes	Bachelor's degree or other programs (three or more years)	10	yes	no	no	no	yes	no	yes	no
+Andrew	MacRae	50	Married	7	9	7	10	no	Secondary school (high school diploma)	15	yes	yes	no	no	no	yes	yes	no
+Andrew	Page	62	Single	9	10	9	8	no	University degree at the Doctoral (PhD) level	14	yes	no	no	no	no	no	yes	no
+Andrew	Perez	45	Single	9	9	8	8	yes	Professional degree needed to practice in a licensed profession	7	no	no	no	no	yes	no	no	yes
+Andrew	Pienaar	30	Single	7	7	9	10	yes	Two-year degree, diploma or certificate	2	no	no	no	no	no	yes	no	yes
